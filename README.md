@@ -5,7 +5,9 @@
 Tucson, AZ · [integrativeaisolutions.com](https://integrativeaisolutions.com) · mchassel2@gmail.com
 B.S. Software Engineering, Western Governors University (expected June 2027) — **available for full-time work now**
 
-I coached lifters and competed in bodybuilding for ten years before I wrote production code. The domain knowledge is why the product works; the engineering is what turned it into software. My repositories are private because they hold the source of a commercial product, so this page is the case study instead.
+I coached lifters and competed in bodybuilding for ten years before I wrote production code. The domain knowledge is why the product works; the engineering is what turned it into software. Alongside this I currently run the personal training department at an LA Fitness club — hiring, managing and developing the trainers, and owning the department's sales — so I'm used to being accountable for a team and a number, not just a codebase.
+
+The app's repositories are private because they hold the source of a commercial product, so this page is the case study instead. Public code: [reportgen](https://github.com/VHcodehead/reportgen), a Go CLI with CI and tests, plus two client sites I built and maintain.
 
 ---
 
